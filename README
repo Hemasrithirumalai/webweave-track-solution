@@ -1,34 +1,33 @@
-What's Cookin'@ SRM 🍛
+What's Cookin'@SRM 🍛
 
 An intuitive web solution to help SRM students view the daily canteen menu, plan meals, and avoid food confusion!
 
-🚀 Problem Statement
+>> Problem Statement
 Day scholars and students often face confusion about the daily canteen menu, leading to wasted time and effort. There's no real-time system to check what dishes are being served.
 
 💡 Proposed Solution
 We propose a centralized web portal displaying:
-- 📅 Daily and weekly canteen menus  
-- 🍛 Dish previews and short descriptions  
-- ⭐ Optional feedback or ratings  
-- 📱 User-friendly, responsive design
+📅 Daily and weekly canteen menus  
+🍛 Dish previews and short descriptions  
+⭐ Optional feedback or ratings  
+📱 User-friendly, responsive design
 
 🎨 Current Progress
+✅ Wireframe designed using *Figma*  
+✅ Layout for **Menu Cards** and **Homepage** designed 
 
-- ✅ Wireframe designed using **Figma**  
-- ✅ Layout for **Menu Cards** and **Homepage** designed 
+ 📷 Screenshots / Preview
 
-## 📷 Screenshots / Preview
-*Insert exported screenshots from Figma here*
 
 
 🛠️ Tech Stack (planned)
-- 🧱 HTML, CSS (final build)  
-- 🎨 Figma (for UI/UX prototyping)  
-- 🛢️ Firebase or JSON (optional — for storing sample menu data)
+🧱 HTML, CSS (final build)  
+🎨 Figma (for UI/UX prototyping)  
+🛢️ Firebase or JSON (optional — for storing sample menu data)
 
  👥 Team
 Hemasri T —  BASIC UI/UX Designer, Figma Prototyping  
-- HEMASRI T — Research & Content  
-- SAMYUTHA R — Developer  
+>>HEMASRI T —Developer   
+>>SAMYUTHA R —Research & Content  
 
 
